@@ -1,5 +1,5 @@
 # SPFx-explain
-Explaining SPFx
+Explaining how to actually get started today near the end of 2021 using [SPFx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
 ## Node JS dependency
 - I had trouble getting this yeoman generator working on the first few releases of NodeJS I tried
