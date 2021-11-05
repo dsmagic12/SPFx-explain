@@ -13,3 +13,10 @@ Explaining SPFx
 7) `npm i`
 8) `gulp trust-dev-cert`
 9) `gulp serve`
+10) Your OS default browser will open and go to the location of the devsite workbench page
+11) If you get an error about your web part will not show in the menu, and you need to run gulp serve and refresh the page then try the following...
+    - open a new tab in the same browser and navigate to `https://localhost:4321/`
+    - ensure that your browser is set to trust the site/certificate
+    - reload the browser's first tab and you should not get the error this time
+
+
