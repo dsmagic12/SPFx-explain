@@ -3,7 +3,7 @@ Explaining SPFx
 
 
 ## Initial setup
-1) node v14 LTS (presently v14.18.1)
+1) [node v14 LTS](https://nodejs.org/download/release/latest-v14.x/)
 2) `npm i gulp-cli yo @microsoft/generator-sharepoint --global --force`
 3) `mkdir SPFx`
 4) `cd SPFx`
